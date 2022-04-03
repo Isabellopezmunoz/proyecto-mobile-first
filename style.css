@@ -76,7 +76,6 @@ header img {
   width: 229px;
   height: 48px;
   background-color: var(--off-white);
-  /* sombra */
   box-shadow: 0px 4px 8px rgba(89, 73, 30, 0.16);
   border: none;
   border-radius: 5px;
@@ -249,7 +248,7 @@ main {
   min-width: 320px;
   height: auto;
   padding: 20px 10px;
-  background-color: var(--warm-black);
+  background-color: var(--black);
 }
 
 .product-detail__batata-logo {
